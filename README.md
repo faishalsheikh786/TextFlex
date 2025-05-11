@@ -12,7 +12,7 @@ The app is designed to be clean, simple, and responsive, making it easy to use o
 
 ## Live Demo
 
-Check out the live version of the app here: [Text Case Converter](https://your-app-url.com)  
+Check out the live version of the app here: [https://trytextflex.netlify.app/]  
 (Replace `your-app-url.com` with the actual URL where your app is deployed)
 
 ## Features
@@ -46,4 +46,4 @@ Check out the live version of the app here: [Text Case Converter](https://your-a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/text-case-converter.git
+   https://github.com/faishalsheikh786/TextFlex.git
