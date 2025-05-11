@@ -12,8 +12,7 @@ The app is designed to be clean, simple, and responsive, making it easy to use o
 
 ## Live Demo
 
-Check out the live version of the app here: [https://trytextflex.netlify.app/]  
-(Replace `your-app-url.com` with the actual URL where your app is deployed)
+Check out the live version of the app here: [Text Flex](https://trytextflex.netlify.app/)  
 
 ## Features
 
